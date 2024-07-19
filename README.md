@@ -1,0 +1,1 @@
+This project showcases the basic implementation of pygame throught tesla auto drive , where the object by its owns drives by avoiding obstacles on various tracks . The car accroding to the obsctacle takes left right top or bottom turn .
